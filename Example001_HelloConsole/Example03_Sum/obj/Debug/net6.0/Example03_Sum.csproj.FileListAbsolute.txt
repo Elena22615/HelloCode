@@ -1,0 +1,15 @@
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\bin\Debug\net6.0\Example03_Sum.exe
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\bin\Debug\net6.0\Example03_Sum.deps.json
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\bin\Debug\net6.0\Example03_Sum.runtimeconfig.json
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\bin\Debug\net6.0\Example03_Sum.dll
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\bin\Debug\net6.0\Example03_Sum.pdb
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\obj\Debug\net6.0\Example03_Sum.csproj.AssemblyReference.cache
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\obj\Debug\net6.0\Example03_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\obj\Debug\net6.0\Example03_Sum.AssemblyInfoInputs.cache
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\obj\Debug\net6.0\Example03_Sum.AssemblyInfo.cs
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\obj\Debug\net6.0\Example03_Sum.csproj.CoreCompileInputs.cache
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\obj\Debug\net6.0\Example03_Sum.dll
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\obj\Debug\net6.0\refint\Example03_Sum.dll
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\obj\Debug\net6.0\Example03_Sum.pdb
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\obj\Debug\net6.0\Example03_Sum.genruntimeconfig.cache
+C:\Users\maya-\OneDrive\Рабочий стол\IT\Examples 2\Example001_HelloConsole\Example03_Sum\obj\Debug\net6.0\ref\Example03_Sum.dll
